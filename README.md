@@ -1,5 +1,5 @@
 ## Graham Scan Convex Hull & Sutherland-Hodgeman Polygon Clipping Algorithms implementation
-
+#### Given a list of points calculate the convex hull and given two convex hulls calculate the intersection polygon
 Test Preview
 
 
